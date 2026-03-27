@@ -1,0 +1,9 @@
+Name,Score,Skills,Missing Skills,Explanation
+Alice,0.78,"python, sql, machine learning, data analysis",None,Good Fit
+Charlie,0.63,"python, machine learning, data analysis",sql,Missing: sql
+Grace,0.45,"python, machine learning","data analysis, sql","Missing: data analysis, sql"
+Eva,0.34,"python, sql, deep learning, nlp","machine learning, data analysis","Missing: machine learning, data analysis"
+Frank,0.1,,"machine learning, python, data analysis, sql","Missing: machine learning, python, data analysis, sql"
+Bob,0.0,java,"machine learning, python, data analysis, sql","Missing: machine learning, python, data analysis, sql"
+David,0.0,"java, html, css, javascript, react","machine learning, python, data analysis, sql","Missing: machine learning, python, data analysis, sql"
+Helen,0.0,"java, javascript","machine learning, python, data analysis, sql","Missing: machine learning, python, data analysis, sql"
